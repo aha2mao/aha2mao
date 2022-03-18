@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.githubassets.com/images/mona-whisper.gif)
+
 <!--
 **aha2mao/aha2mao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
